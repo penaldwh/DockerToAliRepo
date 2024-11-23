@@ -1,3 +1,4 @@
 redis
 postgres:12
 ansible/awx:17.1.0
+mysql:5.7.3
