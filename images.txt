@@ -2,4 +2,3 @@ redis
 postgres:12
 ansible/awx:17.1.0
 mysql:8.0.40
-elasticsearch
