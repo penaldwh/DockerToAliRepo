@@ -5,4 +5,4 @@ mysql:8.0.40
 docker.elastic.co/elasticsearch/elasticsearch:8.16.1
 postgres
 sqlserver
-mcr.microsoft.com/mssql/server:2022-latest
+mssql/server:2022-latest
