@@ -7,4 +7,4 @@ mcr.microsoft.com/mssql/server:2022-latest
 mikesplain/openvas
 rabbitmq
 mysql:8.0-debian
-mysql:8.0.4-debian
+mysql:8.0.40-debian
