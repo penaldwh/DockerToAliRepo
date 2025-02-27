@@ -6,3 +6,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.16.1
 postgres
 mcr.microsoft.com/mssql/server:2022-latest
 mikesplain/openvas
+rabbitmq
