@@ -7,3 +7,4 @@ postgres
 mcr.microsoft.com/mssql/server:2022-latest
 mikesplain/openvas
 rabbitmq
+mysql:8.0-debian
