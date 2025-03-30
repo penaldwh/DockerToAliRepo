@@ -8,3 +8,17 @@ mikesplain/openvas
 rabbitmq
 mysql:8.0-debian
 mysql:8.0.40-debian
+cni:v3.26.1
+pod2daemon-flexvol:v3.26.1
+node:v3.26.1
+kube-controllers:v3.26.1
+typha:v3.26.1
+node-driver-registrar:v3.26.1
+csi:v3.26.1
+cni:v3.29.3
+pod2daemon-flexvol:v3.29.3
+node:v3.29.3
+kube-controllers:v3.29.3
+typha:v3.29.3
+node-driver-registrar:v3.29.3
+csi:v3.29.3
