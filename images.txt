@@ -8,10 +8,4 @@ mikesplain/openvas
 rabbitmq
 mysql:8.0-debian
 mysql:8.0.40-debian
-calico/node:3.29.3
-calico/cni:3.29.3
-calico/kube-controllers:3.29.3
-calico/typha:3.29.3
-calico/apiserver:3.29.3
-calico/pod2daemon-flexvol:3.29.3
-nginx:latest
+nginx
