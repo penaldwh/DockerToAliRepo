@@ -9,3 +9,4 @@ rabbitmq
 mysql:8.0-debian
 mysql:8.0.40-debian
 nginx
+rabbitmqoperator/cluster-operator:2.13.0
