@@ -1,3 +1,4 @@
+postgres:18
 nginx:alpine
 node:18-alpine
 python:3.12-slim
