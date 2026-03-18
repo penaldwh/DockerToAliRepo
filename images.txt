@@ -1,3 +1,4 @@
+csdn/cosyvoice-300m-lite
 python:3.13-slim
 postgres:18
 nginx:alpine
